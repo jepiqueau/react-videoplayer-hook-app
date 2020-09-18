@@ -1,5 +1,5 @@
 {
-  "name": "react-datastoragesqlite-app",
+  "name": "react-videoplayer-hook-app",
   "version": "1.0.1",
   "private": true,
   "homepage": "./",
@@ -8,7 +8,7 @@
     "@capacitor/android": "^2.4.0",
     "@capacitor/core": "^2.4.0",
     "@capacitor/ios": "^2.4.0",
-    "capacitor-data-storage-sqlite": "^2.3.0",
+    "capacitor-video-player": "^2.3.1-2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-router": "^5.1.2",
@@ -47,18 +47,18 @@
   },
   "devDependencies": {
     "@capacitor/cli": "2.4.0",
-    "react-data-storage-sqlite-hook": "0.0.1-beta.3",
+    "react-video-player-hook": "0.0.2",
     "source-map-explorer": "^2.1.0",
     "typescript": "3.8.3"
   },
-  "description": "React App for capacitor-data-storage-sqlite",
+  "description": "React App for capacitor-video-player using react-video-player-hook",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jepiqueau/react-datastoragesqlite-app.git"
+    "url": "git+https://github.com/jepiqueau/react-videoplayer-hook-app.git"
   },
   "author": "Jean Pierre Quéau",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jepiqueau/react-datastoragesqlite-app/issues"
+    "url": "https://github.com/jepiqueau/react-videoplayer-hook-app/issues"
   }
 }

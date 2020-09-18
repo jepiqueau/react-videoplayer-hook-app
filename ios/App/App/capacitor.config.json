@@ -1,6 +1,6 @@
 {
-  "appId": "com.jeep.app.react.datastoragesqlite",
-  "appName": "react-datastoragesqlite-app",
+  "appId": "com.jeep.app.react.hook.videoplayer",
+  "appName": "react-videoplayer-hook-app",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
