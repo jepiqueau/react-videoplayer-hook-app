@@ -11,7 +11,13 @@ in a React App.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project
+## Maintainers
+
+| Maintainer        | GitHub                                    | Social |
+| ----------------- | ----------------------------------------- | ------ |
+| Quéau Jean Pierre | [jepiqueau](https://github.com/jepiqueau) |        |
+
+## Installation
 
 To start clone the project
 ```bash
@@ -20,7 +26,6 @@ cd react-videoplayer-hook-app
 git remote rm origin
 npm install
 ```
-
 
 To install the latest release of the `capacitor-video-player` plugin
 and the latest release of the `react-video-player-hook` hook 
