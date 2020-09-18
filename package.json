@@ -1,6 +1,6 @@
 {
   "name": "react-videoplayer-hook-app",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "private": true,
   "homepage": "./",
   "dependencies": {
@@ -16,11 +16,11 @@
     "react-scripts": "^3.4.3"
   },
   "keywords": [
-    "React",
-    "stencil",
-    "web component",
-    "color",
-    "color picker"
+    "capacitor",
+    "react",
+    "video",
+    "player",
+    "application starter"
   ],
   "scripts": {
     "analyze": "source-map-explorer 'build/static/js/*.js'",
