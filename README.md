@@ -58,11 +58,6 @@ npx cap open ios
 npx cap open android
 ```
 
-### ELECTRON
-
-```
-npx cap open @capacitor-community/electron
-```
 
 ## Contributors ✨
 
